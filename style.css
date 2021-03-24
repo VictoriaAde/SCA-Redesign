@@ -1,18 +1,25 @@
-/* .header{
-    background:  #fefafb;
-} */
+@font-face{
+    font-family: "Avenir LTStd-Book";
+    src: url(./font/FontsFree-Net-AvenirLTStd-Book\ \(1\).ttf);
+}
 body{
+    font-family: "Avenir LTStd-Book";
+}
+body {
     background: #fff;
 }
-.text-color{
+
+.text-color {
     color: #E1215B;
 }
-.btn{
+
+.btn {
     background: #FAB4C9;
     padding: 1rem 3.120rem;
     border-radius: 60px;
 }
-.btn:hover{
+
+.btn:hover {
     background: #f7aac1;
     border: solid 1px #FAB4C9;
 }
