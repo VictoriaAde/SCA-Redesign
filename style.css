@@ -1,0 +1,18 @@
+/* .header{
+    background:  #fefafb;
+} */
+body{
+    background: #fff;
+}
+.text-color{
+    color: #E1215B;
+}
+.btn{
+    background: #FAB4C9;
+    padding: 1rem 3.120rem;
+    border-radius: 60px;
+}
+.btn:hover{
+    background: #f7aac1;
+    border: solid 1px #FAB4C9;
+}
