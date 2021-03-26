@@ -1,10 +1,12 @@
-@font-face{
+@font-face {
     font-family: "Avenir LTStd-Book";
     src: url(./font/FontsFree-Net-AvenirLTStd-Book\ \(1\).ttf);
 }
-body{
+
+body {
     font-family: "Avenir LTStd-Book";
 }
+
 body {
     background: #fff;
 }
@@ -22,4 +24,11 @@ body {
 .btn:hover {
     background: #f7aac1;
     border: solid 1px #FAB4C9;
+}
+
+.shadow {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px #999999;
+    /* width: 352px;
+   */ height: 438px; 
 }
